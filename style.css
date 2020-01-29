@@ -1,0 +1,35 @@
+/* .container1{
+    
+    
+} */
+
+.container2{
+    width: 100%;
+    height: 20%;
+    background-color: yellow;
+}
+
+
+.container2 .about p{
+    font-weight: bold;
+}
+
+.container3{
+    width: 100%;
+    height: 20%;
+    background-color: orange;
+}
+
+form { 
+    margin: 0 auto; 
+    width:32%;
+}
+
+.container4{
+    width: 100%;
+    color: grey;
+} 
+
+.image-div img{
+    width: 100%;
+}
